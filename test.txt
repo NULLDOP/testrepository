@@ -1,5 +1,4 @@
 
 {
   i.love(you)=forever; 
-创建的第一个分支。
 }
